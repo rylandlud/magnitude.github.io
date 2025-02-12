@@ -1,2 +1,2 @@
 # magnitude.github.io
-Repository for a development group, Magnitude Entertainment.
+Repository for a development group on roblox, Magnitude Entertainment.
